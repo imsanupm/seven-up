@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar-header
+{
+ background: #f79a83;
+ width: 100%;
+ height: 7rem;
+ position: fixed;
+}
+.seven-up-logo{
+    margin-left: 2rem;
+    margin-top: 1rem;
+width: 5.2rem;
+
+}
+.navbar-links
+{
+    margin-left: 57%;
+    margin-top: -3rem;
+    
+}
+.links-element
+{
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3rem;
+    font-weight:500;
+    margin-left:1.7rem ;
+    text-decoration: none;
+    
+}
+.links-element:hover
+{
+    text-decoration: underline;
+}
+.navbar-icond
+{
+    margin-left: 82%;
+    margin-top: -1.7rem;
+
+}
+.fa-brands{
+    color: white;
+    margin-top: rem;
+    font-size: 1.8rem;
+    margin-left: .2rem;
+}
+.fa-brands:hover
+{
+    color: red;
+}
+.sample
+{
+    height: 400rem;
+}
